@@ -1,5 +1,5 @@
 {
-  "name": "Genius button",
+  "name": "Genius Button",
   "version": "1.0.0",
   "manifest_version": 2,
   "description": "This extension opens a new tab with the Genius page for the song you're currently listening to.",
