@@ -5,6 +5,7 @@ chrome.runtime.onMessage.addListener(function(message, sender, sendResponse) {
 		if (url.length >= 23 && url.substring(0, 23) == "https://www.youtube.com") {
 			// TODO: Make sure they're watching a video.
 			sendResponse(document.getElementById("eow-title").innerHTML);
+		// Soundcloud case
 		} else if (url.length >= 22 && url.substring(0, 22) == "https://soundcloud.com") {
 			var classResultArray = document.getElementsByClassName("playbackSoundBadge__title sc-truncate");
 			if (classResultArray.length > 0) {
