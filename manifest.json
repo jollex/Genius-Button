@@ -9,7 +9,7 @@
     "128": "icons/icon128.png"
   },
   "background": {
-    "scripts": ["src/background.js"],
+    "scripts": ["lib/jquery-2.2.0.min.js", "src/background.js"],
     "persistent": false
   },
   "browser_action": {
