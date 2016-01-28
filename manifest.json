@@ -1,8 +1,8 @@
 {
-  "name": "Genius Button",
-  "version": "1.0.0",
+  "name": "__MSG_appName__",
+  "description": "__MSG_appDesc__",
+  "version": "1.0.1",
   "manifest_version": 2,
-  "description": "This extension opens a new tab with the Genius page for the song you're currently listening to.",
   "icons": {
     "16": "icons/icon16.png",
     "48": "icons/icon48.png",

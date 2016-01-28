@@ -1,0 +1,8 @@
+{
+  "appName": {
+    "message": "Genius Button"
+  },
+  "appDesc": {
+    "message": "This extension opens a new tab with the Genius page for the song you're currently listening to."
+  }
+}
